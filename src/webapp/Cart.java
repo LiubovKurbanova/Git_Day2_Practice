@@ -7,4 +7,6 @@ public class Cart {
     // balance
     // total
 
+    // debit or credit option
+
 }
