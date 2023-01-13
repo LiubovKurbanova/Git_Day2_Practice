@@ -8,5 +8,8 @@ public class HomePage {
 
     // hello
 
+// logo
+
+    // did some steps
 
 }
